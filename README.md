@@ -1,7 +1,7 @@
 
 **SciColor** is a visualization software designed to provide color scheme references for academic figures. It reads color scheme information from the "color_schemes.txt" file and displays various data visualizations including scatter plots, line graphs, bar charts, density plots, and pie charts. This tool helps you easily browse and select ideal color schemes while inspiring your creations. Currently, the "color_schemes.txt" file contains over 200 color schemes.
 
-SciColor是一款为论文制图提供配色方案参考的可视化软件，能够读取"color_schemes.txt"文件中的配色方案信息，并展示包括散点图、曲线图、柱状图、密度图、相关图和饼图等多种数据图形，助您轻松浏览和选择理想的配色方案，同时为自创配色方案提供灵感。"color_schemes.txt"文件目前已包含超200种配色方案。
+**SciColor**是一款为论文制图提供配色方案参考的可视化软件，能够读取"color_schemes.txt"文件中的配色方案信息，并展示包括散点图、曲线图、柱状图、密度图、相关图和饼图等多种数据图形，助您轻松浏览和选择理想的配色方案，同时为自创配色方案提供灵感。"color_schemes.txt"文件目前已包含超200种配色方案。
 
 ---
 
